@@ -1,0 +1,13 @@
+C:\VDevProjects\A138204_Test\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\VDevProjects\A138204_Test\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\VDevProjects\A138204_Test\BusinessLayer\bin\Debug\Common.dll
+C:\VDevProjects\A138204_Test\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\VDevProjects\A138204_Test\BusinessLayer\bin\Debug\Models.dll
+C:\VDevProjects\A138204_Test\BusinessLayer\bin\Debug\RestSharp.dll
+C:\VDevProjects\A138204_Test\BusinessLayer\bin\Debug\Common.pdb
+C:\VDevProjects\A138204_Test\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\VDevProjects\A138204_Test\BusinessLayer\bin\Debug\Models.pdb
+C:\VDevProjects\A138204_Test\BusinessLayer\bin\Debug\RestSharp.xml
+C:\VDevProjects\A138204_Test\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\VDevProjects\A138204_Test\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\VDevProjects\A138204_Test\BusinessLayer\obj\Debug\BusinessLayer.pdb

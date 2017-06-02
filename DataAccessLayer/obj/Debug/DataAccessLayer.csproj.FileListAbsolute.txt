@@ -1,0 +1,9 @@
+C:\VDevProjects\A138204_Test\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\VDevProjects\A138204_Test\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\VDevProjects\A138204_Test\DataAccessLayer\bin\Debug\Models.dll
+C:\VDevProjects\A138204_Test\DataAccessLayer\bin\Debug\RestSharp.dll
+C:\VDevProjects\A138204_Test\DataAccessLayer\bin\Debug\Models.pdb
+C:\VDevProjects\A138204_Test\DataAccessLayer\bin\Debug\RestSharp.xml
+C:\VDevProjects\A138204_Test\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\VDevProjects\A138204_Test\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\VDevProjects\A138204_Test\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

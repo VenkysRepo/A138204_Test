@@ -1,0 +1,29 @@
+﻿@model Models.View_Models.ListofPets
+@{
+    ViewBag.Title = "pets";
+}
+<html>
+<head>
+</head>
+<body>
+    @if (Model != null)
+    {
+        foreach (var sortedpets in Model.SortedList)
+        {
+            <h3>@sortedpets.Gender</h3>
+            <ul>
+                @foreach (var pet in sortedpets.petsList)
+                {
+                    <li>@pet</li>
+                }
+            </ul>
+        }
+    }
+    else
+    {
+        <p> @Model.ErrorMessage</p>
+      
+    }
+</body>
+</html>
+

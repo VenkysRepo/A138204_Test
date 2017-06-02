@@ -1,0 +1,5 @@
+C:\VDevProjects\A138204_Test\Common\bin\Debug\Common.dll
+C:\VDevProjects\A138204_Test\Common\bin\Debug\Common.pdb
+C:\VDevProjects\A138204_Test\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\VDevProjects\A138204_Test\Common\obj\Debug\Common.dll
+C:\VDevProjects\A138204_Test\Common\obj\Debug\Common.pdb

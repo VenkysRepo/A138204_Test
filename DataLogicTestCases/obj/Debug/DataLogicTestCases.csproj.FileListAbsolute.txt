@@ -1,0 +1,12 @@
+C:\VDevProjects\A138204_Test\DataLogicTestCases\bin\Debug\DataLogicTestCases.dll
+C:\VDevProjects\A138204_Test\DataLogicTestCases\bin\Debug\DataLogicTestCases.pdb
+C:\VDevProjects\A138204_Test\DataLogicTestCases\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\VDevProjects\A138204_Test\DataLogicTestCases\bin\Debug\Microsoft.Web.Mvc.dll
+C:\VDevProjects\A138204_Test\DataLogicTestCases\bin\Debug\MvcContrib.dll
+C:\VDevProjects\A138204_Test\DataLogicTestCases\bin\Debug\MvcContrib.TestHelper.dll
+C:\VDevProjects\A138204_Test\DataLogicTestCases\bin\Debug\Rhino.Mocks.dll
+C:\VDevProjects\A138204_Test\DataLogicTestCases\bin\Debug\MvcContrib.xml
+C:\VDevProjects\A138204_Test\DataLogicTestCases\bin\Debug\MvcContrib.TestHelper.xml
+C:\VDevProjects\A138204_Test\DataLogicTestCases\obj\Debug\DataLogicTestCases.csprojResolveAssemblyReference.cache
+C:\VDevProjects\A138204_Test\DataLogicTestCases\obj\Debug\DataLogicTestCases.dll
+C:\VDevProjects\A138204_Test\DataLogicTestCases\obj\Debug\DataLogicTestCases.pdb
